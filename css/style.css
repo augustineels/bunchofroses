@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 25px;
+	margin: 0px;
+	background-color: #dfd8ca;
+	
+}
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bolder;
+}
+a {
+	text-decoration: none;
+}
+h2 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	color: white;
+}
+
+h3 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	color: #C6AC9E;
+}

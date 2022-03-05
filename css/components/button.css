@@ -1,0 +1,13 @@
+.btn-red {
+	background-color: #BCCC9A;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Dancing Script', cursive;
+}
+
+a:hover {
+	background-color: #C6AC9E;
+	color: white;
+}
